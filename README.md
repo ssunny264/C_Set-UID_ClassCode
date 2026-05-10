@@ -1,2 +1,2 @@
-# Python_Set-UID_ClassCode
-Python code given during cybersecurity class - Set UID
+# C_Set-UID_ClassCode
+C code given during cybersecurity class - Set UID
